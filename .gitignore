@@ -1,0 +1,12 @@
+
+/temp/
+*.log
+/docs/
+/jars/
+/out/
+Client.jar
+/.idea/
+!.gitignore
+!TODO
+user.cfg
+workspace.xml
